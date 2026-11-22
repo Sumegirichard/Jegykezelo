@@ -1,0 +1,12 @@
+﻿# Lefordított fájlok
+bin/
+*.class
+
+# Visual Studio / IDE
+.vs/
+.idea/
+*.iml
+
+# OS
+Thumbs.db
+.DS_Store
